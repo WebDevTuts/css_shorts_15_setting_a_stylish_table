@@ -61,7 +61,7 @@ table thead td {
 	padding-bottom: 6px;
 }
 
-table tbody tr:nth-child(odd) {
+table tbody tr:nth-child(even) {
   background-color: rgba(255,255,255,.1);
 }
 
