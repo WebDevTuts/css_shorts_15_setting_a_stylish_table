@@ -70,7 +70,12 @@ table tbody td:nth-child(1) {
   font-weight: bold;
 }
 
-
+table tbody td:nth-child(2) {
+  background-color: rgba(238,25,238,.3);
+  border-left: 1px solid rgba(255,255,255,.2);
+  border-right: 1px solid rgba(255,255,255,.2);
+  text-align: center;
+}
 
 
 
